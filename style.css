@@ -71,3 +71,16 @@
     transform: scale(1.1);
 }
  /*Quiero que salga una linea que desaparezaca debajo de cada link*/
+
+ 
+ .div{
+    display: flex;
+    background-color: #08d9f0;
+    width: 60%;
+ }
+
+ .section{
+    display: flex;
+    flex-direction: row;
+    width: 50%
+ }
